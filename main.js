@@ -1,6 +1,13 @@
-let s = () => {
+let s = 13;
+var v = 22;
+function sd(){
+
 }
-function f() {
+const qwe = () => {
+
+};
+
+class Mai {
+
 }
-class SSE {
-}
+new Mai()
